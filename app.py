@@ -24,3 +24,5 @@ if is_prime(number):
     print(f"{number} is a prime number.")
 else:
     print(f"{number} is not a prime number.")
+
+    "Hi this is a master branche changesi"
